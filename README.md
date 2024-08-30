@@ -27,4 +27,4 @@ Conferir o projeto: https://codepen.io/tatiane-nascimento/full/oNrPLdv
 
 
 
-![Uploading image.png…]()
+https://thypix.com/wp-content/uploads/2021/04/fortnite-mobile-background-2-47.jpg
