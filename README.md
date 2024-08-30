@@ -24,7 +24,6 @@ O **Jogo do Número Secreto** é um jogo simples e divertido onde o jogador deve
 ```bash
 git clone https://github.com/tatiane347/jogo-do-numero-secreto.git
 Conferir o projeto: https://codepen.io/tatiane-nascimento/full/oNrPLdv
-![image] https://github.com/user-attachments/assets/309dc735-1979-436c-a003-9c60a6e3a46c
-
+https://black-forest-labs-flux-1-schnell.hf.space/file=/tmp/gradio/67b5c2648b49d5e512101cc5794c0dc4419141f1/image.webp
 
 
